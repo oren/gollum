@@ -1,4 +1,4 @@
-* [engineering]
-* [product]
-* [Marketing]
-* [Sales]
+* [[engineering]]
+* [[product]]
+* [[Marketing]]
+* [[Sales]]
